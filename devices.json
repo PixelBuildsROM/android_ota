@@ -34,15 +34,5 @@
             "name": "One Fusion +",
             "maintainer": "cool585"
         }
-    },
-    "Xiaomi": {
-        "miatoll": {
-            "name": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
-            "maintainer": "clarencelol"
-        },
-        "rosemary": {
-            "name": "Redmi Note 10S / 11 SE India",
-            "maintainer": "windowz414"
-        }
     }
 }
