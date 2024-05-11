@@ -1,12 +1,11 @@
 {
-    "response": [
-
-      {
-        "datetime": 1712466028,
-        "filename": "PixelBuilds_crosshatch-unity-20240407-1030-release.zip",
-        "id": "04a121da9998325d381f217ecd13d694372206bb0ff2048a6c500c34259d9bb9",
-        "size": 1583920898,
-        "url": "https://github.com/PixelBuilds-Releases/crosshatch/releases/download/20240407-1030/PixelBuilds_crosshatch-unity-20240407-1030-release.zip"
-      }
-    ]
+  "response": [
+    {
+      "datetime": 1715441226,
+      "filename": "PixelBuilds_crosshatch-unity-20240511-1526-release.zip",
+      "id": "e746c55134f2660ab86b688d6f04e6b903c03bbbac427f500c84fc7566fedc4a",
+      "size": 1617889940,
+      "url": "https://github.com/PixelBuilds-Releases/crosshatch/releases/download/20240511-1526/PixelBuilds_crosshatch-unity-20240511-1526-release.zip"
+    }
+  ]
 }
