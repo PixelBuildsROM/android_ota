@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1712600502,
-      "filename": "PixelBuilds_flame-unity-20240408-2021-release.zip",
-      "id": "e6f4a3c75a1c02609e7db6b2feed0f9677aee717edb9cf3f5e24c4c48602a0bd",
-      "size": 1706779602,
-      "url": "https://github.com/PixelBuilds-Releases/flame/releases/download/20240408-2021/PixelBuilds_flame-unity-20240408-2021-release.zip"
+      "datetime": 1718005689,
+      "filename": "PixelBuilds_flame-unity-20240610-0748-release.zip",
+      "id": "69665cd8a38bf43b5c2b2f4bb60c547af56392312e6ed8b04e53c2e23e43ebb8",
+      "size": 1737626464,
+      "url": "https://github.com/PixelBuilds-Releases/flame/releases/download/20240610-0748/PixelBuilds_flame-unity-20240610-0748-release.zip"
     }
   ]
 }
