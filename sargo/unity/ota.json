@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1720258388,
-      "filename": "PixelBuilds_sargo-unity-20240706-0933-release.zip",
-      "id": "08cdb1c78c6d3867e8acb2e18ca115e2bc6606e1b592d2c8ae70fb76e5d2ecfb",
-      "size": 1532058749,
-      "url": "https://github.com/PixelBuilds-Releases/sargo/releases/download/20240706-0933/PixelBuilds_sargo-unity-20240706-0933-release.zip"
+      "datetime": 1720359256,
+      "filename": "PixelBuilds_sargo-unity-20240707-1334-release.zip",
+      "id": "f880e53345680566ac77bf1b52881899f71c9d0f3855928c520a96a2e73a3f51",
+      "size": 1532064991,
+      "url": "https://github.com/PixelBuilds-Releases/sargo/releases/download/20240707-1334/PixelBuilds_sargo-unity-20240707-1334-release.zip"
     }
   ]
 }
