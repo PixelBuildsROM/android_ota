@@ -1,11 +1,19 @@
 {
   "response": [
     {
+<<<<<<< PATCH SET (c42826 ota: coral-20240816-1652)
+      "datetime": 1723827128,
+      "filename": "PixelBuilds_coral-unity-20240816-1652-release.zip",
+      "id": "1b162403617abd12722afbcb87a2d80669a5e02bac9d38554fcb30c60ea8d470",
+      "size": 1785442154,
+      "url": "https://github.com/PixelBuilds-Releases/coral/releases/download/20240816-1652/PixelBuilds_coral-unity-20240816-1652-release.zip"
+=======
       "datetime": 1720345423,
       "filename": "PixelBuilds_coral-unity-20240707-1243-release.zip",
       "id": "07dd12c1a9d235d0aa7cbd51b0a3ac02e9c883281ee28dc030779646c650c150",
       "size": 1790303476,
       "url": "https://github.com/PixelBuilds-Releases/coral/releases/download/20240707-1243/PixelBuilds_coral-unity-20240707-1243-release.zip"
+>>>>>>> BASE      (58a1e8 ota: flame-20240816-1249)
     }
   ]
 }
