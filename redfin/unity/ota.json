@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": 1725475140,
-      "filename": "PixelBuilds_redfin-unity-20240904-1958-release.zip",
-      "id": "5e26162b71ad6c062497c352b58162256c1c0f44f6e18fcf12b684c8d65f1ea1",
-      "size": 1701159134,
-      "url": "https://git.pixelbuilds.com/releases/redfin/releases/download/20240904-1958/PixelBuilds_redfin-unity-20240904-1958-release.zip"
+      "filename": "PixelBuilds_redfin-unity-20240904-2057-release.zip",
+      "id": "b9472567f187659bc3580b68ea0b3abbc805cb60980742fecfbfe98c0b446d9b",
+      "size": 1701160318,
+      "url": "https://git.pixelbuilds.com/releases/redfin/releases/download/20240904-2057/PixelBuilds_redfin-unity-20240904-2057-release.zip"
     }
   ]
 }
