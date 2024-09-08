@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1723899388,
-      "filename": "PixelBuilds_blueline-unity-20240817-1256-release.zip",
-      "id": "5983c380d877d1037adf3090e09f4751082cac39e6e0bcd791998917066bf905",
-      "size": 1544011978,
-      "url": "https://github.com/PixelBuilds-Releases/blueline/releases/download/20240817-1256/PixelBuilds_blueline-unity-20240817-1256-release.zip"
+      "datetime": 1725760411,
+      "filename": "PixelBuilds_blueline-unity-20240908-0353-release.zip",
+      "id": "c748b6de3a89220d91473051127e8c3ad3c2fb1e5b90c236b4a7e055c317abe0",
+      "size": 1536182988,
+      "url": "https://git.pixelbuilds.org/releases/blueline/releases/download/20240908-0353/PixelBuilds_blueline-unity-20240908-0353-release.zip"
     }
   ]
 }
