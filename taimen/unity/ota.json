@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1725767145,
-      "filename": "PixelBuilds_taimen-unity-20240908-0545-release.zip",
-      "id": "94154f687669b23d9dfded99b8713d75af765d257222b2aba0a0be90c1a86e99",
-      "size": 1496154451,
-      "url": "https://git.pixelbuilds.org/releases/taimen/releases/download/20240908-0545/PixelBuilds_taimen-unity-20240908-0545-release.zip"
+      "datetime": 1728650848,
+      "filename": "PixelBuilds_taimen-unity-20241011-1447-release.zip",
+      "id": "27617eceac0bc9dc376eed76662f0a4fe65cb391126a89e811ced49ac0a577e0",
+      "size": 1496165068,
+      "url": "https://git.pixelbuilds.org/releases/taimen/releases/download/20241011-1447/PixelBuilds_taimen-unity-20241011-1447-release.zip"
     }
   ]
 }
