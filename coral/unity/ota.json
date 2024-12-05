@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1731200572,
-      "filename": "PixelBuilds_coral-unity-20241110-0202-release.zip",
-      "id": "695e6346d152ad60a97c461f75bb085f5238308e19221a31542c88040a01ef13",
-      "size": 1779033823,
-      "url": "https://git.pixelbuilds.org/releases/coral/releases/download/20241110-0202/PixelBuilds_coral-unity-20241110-0202-release.zip"
+      "datetime": 1733397099,
+      "filename": "PixelBuilds_coral-unity-20241205-1211-release.zip",
+      "id": "2ea71cb33d1bae44a2187e0e768be02782e7d756c44ab2e3f412a9349f33cae7",
+      "size": 1779027638,
+      "url": "https://git.pixelbuilds.org/releases/coral/releases/download/20241205-1211/PixelBuilds_coral-unity-20241205-1211-release.zip"
     }
   ]
 }
