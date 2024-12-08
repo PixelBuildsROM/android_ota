@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1731339333,
-      "filename": "PixelBuilds_liber-unity-20241111-1635-release.zip",
-      "id": "2115621b43fb6b85dc03369b06925316aa6c570686135c9c27261c854f558a9a",
-      "size": 1383359832,
-      "url": "https://git.pixelbuilds.org/releases/liber/releases/download/20241111-1635/PixelBuilds_liber-unity-20241111-1635-release.zip"
+      "datetime": 1733648799,
+      "filename": "PixelBuilds_liber-unity-20241208-1006-release.zip",
+      "id": "92929828b3eaa2566db31339e4de5946c7dc5b8694313696c314cdd1593bbc51",
+      "size": 1383347813,
+      "url": "https://git.pixelbuilds.org/releases/liber/releases/download/20241208-1006/PixelBuilds_liber-unity-20241208-1006-release.zip"
     }
   ]
 }
