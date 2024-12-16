@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1733410457,
-      "filename": "PixelBuilds_sunfish-unity-20241205-1554-release.zip",
-      "id": "198f39ba899781bd79a0d6bcae6b22cebba796fef02e51ee8b6b4086c9031458",
-      "size": 1651309864,
-      "url": "https://git.pixelbuilds.org/releases/sunfish/releases/download/20241205-1554/PixelBuilds_sunfish-unity-20241205-1554-release.zip"
+      "datetime": 1734362699,
+      "filename": "PixelBuilds_sunfish-unity-20241216-1624-release.zip",
+      "id": "36c5c1c530fb82d9d68583fa1de9f3c74be29c7485308d714dbaa20ffc873d29",
+      "size": 1651333247,
+      "url": "https://git.pixelbuilds.org/releases/sunfish/releases/download/20241216-1624/PixelBuilds_sunfish-unity-20241216-1624-release.zip"
     }
   ]
 }
