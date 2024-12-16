@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1733587917,
-      "filename": "PixelBuilds_blueline-unity-20241207-1711-release.zip",
-      "id": "56bb624b9b6f730473c9c1fa6dcb8943f711c70032672737659bded0a74eb6ab",
-      "size": 1537025881,
-      "url": "https://git.pixelbuilds.org/releases/blueline/releases/download/20241207-1711/PixelBuilds_blueline-unity-20241207-1711-release.zip"
+      "datetime": 1734375965,
+      "filename": "PixelBuilds_blueline-unity-20241216-2006-release.zip",
+      "id": "682f7225318a1286afff84a4ada6051b74a8c616dadfe0b8f33f299fc485850d",
+      "size": 1537077284,
+      "url": "https://git.pixelbuilds.org/releases/blueline/releases/download/20241216-2006/PixelBuilds_blueline-unity-20241216-2006-release.zip"
     }
   ]
 }
