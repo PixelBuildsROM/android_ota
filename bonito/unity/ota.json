@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1733430319,
-      "filename": "PixelBuilds_bonito-unity-20241205-2125-release.zip",
-      "id": "47461eb17cac0822bee80b36e6afb7ad7135e7e6ca5a21c2dacd9094faaeb178",
-      "size": 1524890539,
-      "url": "https://git.pixelbuilds.org/releases/bonito/releases/download/20241205-2125/PixelBuilds_bonito-unity-20241205-2125-release.zip"
+      "datetime": 1734446485,
+      "filename": "PixelBuilds_bonito-unity-20241217-1541-release.zip",
+      "id": "3545fa34090a64adf5d817728affd250671754ec9ee30d1a32ded0b0203b09ae",
+      "size": 1524591635,
+      "url": "https://git.pixelbuilds.org/releases/bonito/releases/download/20241217-1541/PixelBuilds_bonito-unity-20241217-1541-release.zip"
     }
   ]
 }
