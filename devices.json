@@ -30,12 +30,12 @@
         },
         "taimen": {
             "name": "Pixel 2 XL",
-            "discontinued": true
+	    "maintainer": "PixelBoot"
         },
         "walleye": {
             "name": "Pixel 2",
             "discontinued": true
-        }        
+        }
     },
     "Motorola": {
         "liber": {
