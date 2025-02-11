@@ -32,6 +32,10 @@
             "name": "Pixel 2 XL",
 	    "maintainer": "PixelBoot"
         },
+        "barbet": {
+            "name": "Pixel 5a",
+            "maintainer": "PixelBoot"
+        },
         "walleye": {
             "name": "Pixel 2",
             "discontinued": true
