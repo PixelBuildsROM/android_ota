@@ -36,6 +36,14 @@
             "name": "Pixel 5a",
             "maintainer": "PixelBoot"
         },
+        "sailfish": {
+            "name": "Pixel",
+            "maintainer": "PixelBoot"
+        },
+        "marlin": {
+            "name": "Pixel XL",
+            "maintainer": "PixelBoot"
+        },
         "walleye": {
             "name": "Pixel 2",
             "discontinued": true
