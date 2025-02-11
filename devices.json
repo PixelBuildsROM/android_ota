@@ -29,13 +29,12 @@
             "maintainer": "cool585"
         },
         "taimen": {
-            "name": "Pixel 2 XL",
-            "discontinued": true
+            "name": "Pixel 2 XL"
         },
         "walleye": {
             "name": "Pixel 2",
             "discontinued": true
-        }        
+        }
     },
     "Motorola": {
         "liber": {
