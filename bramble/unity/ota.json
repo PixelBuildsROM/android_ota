@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1736789093,
-      "filename": "PixelBuilds_bramble-unity-20250113-1924-release.zip",
-      "id": "8c9c29a68def2cf53cf49a09742a4a508653e4874d27fe5151ca2401e19ebc40",
-      "size": 1706264272,
-      "url": "https://git.pixelbuilds.org/releases/bramble/releases/download/20250113-1924/PixelBuilds_bramble-unity-20250113-1924-release.zip"
+      "datetime": 1739441074,
+      "filename": "PixelBuilds_bramble-unity-20250213-1204-release.zip",
+      "id": "732c434031bb439f53aaba7a7271450278933c5b68de5f10279e8ec218d67285",
+      "size": 1698829805,
+      "url": "https://git.pixelbuilds.org/releases/bramble/releases/download/20250213-1204/PixelBuilds_bramble-unity-20250213-1204-release.zip"
     }
   ]
 }
