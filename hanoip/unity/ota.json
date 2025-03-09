@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1741451276,
-      "filename": "PixelBuilds_hanoip-unity-20250308-1727-release.zip",
-      "id": "da8e178c8587765197ad68ca5e64a042ea42f272a1bc2f483e679e5c275a438c",
-      "size": 1441292677,
-      "url": "https://git.pixelbuilds.org/releases/hanoip/releases/download/20250308-1727/PixelBuilds_hanoip-unity-20250308-1727-release.zip"
+      "datetime": 1741519934,
+      "filename": "PixelBuilds_hanoip-unity-20250309-1232-release.zip",
+      "id": "66b0e921ffbc2c051bd068d3d773ac46fa10b67bee9cded0a5c3da2830b2a4df",
+      "size": 1439031065,
+      "url": "https://git.pixelbuilds.org/releases/hanoip/releases/download/20250309-1232/PixelBuilds_hanoip-unity-20250309-1232-release.zip"
     }
   ]
 }
