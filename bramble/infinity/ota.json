@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1744883893,
-      "filename": "PixelBuilds_bramble-infinity-20250417-1158-release.zip",
-      "id": "18d850d4ad80486f317e64a1daaf52517e086a955531fe322dc19c759d0f3038",
-      "size": 1710258465,
-      "url": "https://git.pixelbuilds.org/releases/bramble/releases/download/20250417-1158/PixelBuilds_bramble-infinity-20250417-1158-release.zip"
+      "datetime": 1745240551,
+      "filename": "PixelBuilds_bramble-infinity-20250421-1602-release.zip",
+      "id": "25de44ba1e28872c9b64794528d3fb90e03d625c6855d9391d12b319e9f78128",
+      "size": 1710150468,
+      "url": "https://git.pixelbuilds.org/releases/bramble/releases/download/20250421-1602/PixelBuilds_bramble-infinity-20250421-1602-release.zip"
     }
   ]
 }
