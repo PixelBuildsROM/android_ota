@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1745311848,
-      "filename": "PixelBuilds_flame-infinity-20250422-1050-release.zip",
-      "id": "5af02ba02981eb01d19fe4a37c70918a0db0d38d1ce66147974da9bcf577da93",
-      "size": 1785461019,
-      "url": "https://git.pixelbuilds.org/releases/flame/releases/download/20250422-1050/PixelBuilds_flame-infinity-20250422-1050-release.zip"
+      "datetime": 1746883840,
+      "filename": "PixelBuilds_flame-infinity-20250510-1630-release.zip",
+      "id": "693e93b4bf158bf2c956e00d1ee8ac9afe39a296b4326b662a0407ccc332cc15",
+      "size": 1785467283,
+      "url": "https://git.pixelbuilds.org/releases/flame/releases/download/20250510-1630/PixelBuilds_flame-infinity-20250510-1630-release.zip"
     }
   ]
 }
