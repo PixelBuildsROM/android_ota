@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1746872810,
-      "filename": "PixelBuilds_hanoip-infinity-20250510-1226-release.zip",
-      "id": "43f05fc0a9b278fdf7abdc4e3c631cf51ada42fee09af0b0c7f9d47913e04e34",
-      "size": 1459566147,
-      "url": "https://git.pixelbuilds.org/releases/hanoip/releases/download/20250510-1226/PixelBuilds_hanoip-infinity-20250510-1226-release.zip"
+      "datetime": 1750014430,
+      "filename": "PixelBuilds_hanoip-infinity-20250615-2107-release.zip",
+      "id": "f8962b25170ef57fd2a20ae84abb8ef9bbd84cf9dc832a67c0013bb48046004a",
+      "size": 1459497971,
+      "url": "https://git.pixelbuilds.org/releases/hanoip/releases/download/20250615-2107/PixelBuilds_hanoip-infinity-20250615-2107-release.zip"
     }
   ]
 }
