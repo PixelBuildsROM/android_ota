@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1746811995,
-      "filename": "PixelBuilds_blueline-infinity-20250509-1933-release.zip",
-      "id": "f23f8b698f519ad64c98f0755ceb96efcf0debb68048f3611417a80fcf75ae32",
-      "size": 1548978906,
-      "url": "https://git.pixelbuilds.org/releases/blueline/releases/download/20250509-1933/PixelBuilds_blueline-infinity-20250509-1933-release.zip"
+      "datetime": 1750073930,
+      "filename": "PixelBuilds_blueline-infinity-20250616-1438-release.zip",
+      "id": "85a9d471695e39b4c41ce90b998c565407f26dd486f6822eed4b41c4492e0fa3",
+      "size": 1485202295,
+      "url": "https://git.pixelbuilds.org/releases/blueline/releases/download/20250616-1438/PixelBuilds_blueline-infinity-20250616-1438-release.zip"
     }
   ]
 }
