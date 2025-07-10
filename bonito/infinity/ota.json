@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1750101491,
-      "filename": "PixelBuilds_bonito-infinity-20250616-2118-release.zip",
-      "id": "753af62330c1cc49e8c28573437330d39b121b538b1234a1a1864687252f4990",
-      "size": 1536622230,
-      "url": "https://git.pixelbuilds.org/releases/bonito/releases/download/20250616-2118/PixelBuilds_bonito-infinity-20250616-2118-release.zip"
+      "datetime": 1752141359,
+      "filename": "PixelBuilds_bonito-infinity-20250710-0955-release.zip",
+      "id": "bd68523a9f55dab63a593d2a37d05b49669def54c7a68c90b61dbb7fa214490e",
+      "size": 1536625290,
+      "url": "https://git.pixelbuilds.org/releases/bonito/releases/download/20250710-0955/PixelBuilds_bonito-infinity-20250710-0955-release.zip"
     }
   ]
 }
