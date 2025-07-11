@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1750081245,
-      "filename": "PixelBuilds_barbet-infinity-20250616-1540-release.zip",
-      "id": "3486805481c11360c4b984ca5aca2eeb46195fe4300b4b9bc9d1eeac86e071eb",
-      "size": 1700419146,
-      "url": "https://git.pixelbuilds.org/releases/barbet/releases/download/20250616-1540/PixelBuilds_barbet-infinity-20250616-1540-release.zip"
+      "datetime": 1752259094,
+      "filename": "PixelBuilds_barbet-infinity-20250711-1838-release.zip",
+      "id": "d06bba79281173c613b68b57ded5053953d657d3654db88f043c233951cbe83e",
+      "size": 1700348590,
+      "url": "https://git.pixelbuilds.org/releases/barbet/releases/download/20250711-1838/PixelBuilds_barbet-infinity-20250711-1838-release.zip"
     }
   ]
 }
