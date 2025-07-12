@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1750611615,
-      "filename": "PixelBuilds_taimen-infinity-20250622-1700-release.zip",
-      "id": "7cc7f56b2d5002664b2853e6e8f4d4166eb82d0e2cf3decea464fe56460cbe2a",
-      "size": 1500723738,
-      "url": "https://git.pixelbuilds.org/releases/taimen/releases/download/20250622-1700/PixelBuilds_taimen-infinity-20250622-1700-release.zip"
+      "datetime": 1752342547,
+      "filename": "PixelBuilds_taimen-infinity-20250712-1749-release.zip",
+      "id": "bc46ba0dec037c88f205c78232a590f517739bd91b157ece156c1fa192d0e820",
+      "size": 1500716721,
+      "url": "https://git.pixelbuilds.org/releases/taimen/releases/download/20250712-1749/PixelBuilds_taimen-infinity-20250712-1749-release.zip"
     }
   ]
 }
