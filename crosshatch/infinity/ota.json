@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1752399337,
-      "filename": "PixelBuilds_crosshatch-infinity-20250713-0935-release.zip",
-      "id": "0a6d059c107e1617e62c0f76800ce834eb889bb175aceb95759adc7644c28455",
-      "size": 1485410084,
-      "url": "https://git.pixelbuilds.org/releases/crosshatch/releases/download/20250713-0935/PixelBuilds_crosshatch-infinity-20250713-0935-release.zip"
+      "datetime": 1755505459,
+      "filename": "PixelBuilds_crosshatch-infinity-20250818-0824-release.zip",
+      "id": "ce8c52d54652b24bb9bb3aeb8f1acb03d953a3c7d1d60b87d7cd42c10a7933d7",
+      "size": 1485430620,
+      "url": "https://git.pixelbuilds.org/releases/crosshatch/releases/download/20250818-0824/PixelBuilds_crosshatch-infinity-20250818-0824-release.zip"
     }
   ]
 }
