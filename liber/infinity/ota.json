@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1752312627,
-      "filename": "PixelBuilds_liber-infinity-20250712-0930-release.zip",
-      "id": "1de754503d19163389c6ee34bcf7291679afb6e10fd93dbd2312be80e5de6a80",
-      "size": 1388551163,
-      "url": "https://git.pixelbuilds.org/releases/liber/releases/download/20250712-0930/PixelBuilds_liber-infinity-20250712-0930-release.zip"
+      "datetime": 1755544420,
+      "filename": "PixelBuilds_liber-infinity-20250818-1913-release.zip",
+      "id": "735b5ca6c30fa74142a9d8208aa5d9f2f26d0b428181ec9e5ef44988ada97635",
+      "size": 1388581671,
+      "url": "https://git.pixelbuilds.org/releases/liber/releases/download/20250818-1913/PixelBuilds_liber-infinity-20250818-1913-release.zip"
     }
   ]
 }
