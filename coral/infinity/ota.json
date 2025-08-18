@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1752346881,
-      "filename": "PixelBuilds_coral-infinity-20250712-1901-release.zip",
-      "id": "093d87e8f8267c1f523a0fd46320e852748aba29f745375c9067ab74888b8f5c",
-      "size": 1782293617,
-      "url": "https://git.pixelbuilds.org/releases/coral/releases/download/20250712-1901/PixelBuilds_coral-infinity-20250712-1901-release.zip"
+      "datetime": 1755526212,
+      "filename": "PixelBuilds_coral-infinity-20250818-1410-release.zip",
+      "id": "dc75292ed9fcd4c536532629218bc25fe3b5f156112c1c3383c0a93d96082b2a",
+      "size": 1782299889,
+      "url": "https://git.pixelbuilds.org/releases/coral/releases/download/20250818-1410/PixelBuilds_coral-infinity-20250818-1410-release.zip"
     }
   ]
 }
