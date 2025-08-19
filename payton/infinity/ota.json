@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1752395302,
-      "filename": "PixelBuilds_payton-infinity-20250713-0828-release.zip",
-      "id": "efa28ee0c4d2b006e9ec4ed50937ad5d63b20d3b9bf37b90b6c72f577b70cb9f",
-      "size": 1288909384,
-      "url": "https://git.pixelbuilds.org/releases/payton/releases/download/20250713-0828/PixelBuilds_payton-infinity-20250713-0828-release.zip"
+      "datetime": 1755587233,
+      "filename": "PixelBuilds_payton-infinity-20250819-0707-release.zip",
+      "id": "3ca6bc4d6c148d4332cf03676fe61461187df7008d1fcadb742b74de21101836",
+      "size": 1288952094,
+      "url": "https://git.pixelbuilds.org/releases/payton/releases/download/20250819-0707/PixelBuilds_payton-infinity-20250819-0707-release.zip"
     }
   ]
 }
