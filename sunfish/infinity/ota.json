@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1755530750,
-      "filename": "PixelBuilds_sunfish-infinity-20250818-1525-release.zip",
-      "id": "1170c838092a77c6b22d572cbb6325bfe4f186758f439a9f29b8658d22f2c79b",
-      "size": 1654827631,
-      "url": "https://git.pixelbuilds.org/releases/sunfish/releases/download/20250818-1525/PixelBuilds_sunfish-infinity-20250818-1525-release.zip"
+      "datetime": 1758999269,
+      "filename": "PixelBuilds_sunfish-infinity-20250927-1854-release.zip",
+      "id": "02d9ca9e47e18fa1208120719bb5a694bd124aa889965d97d37b3fcfb28bec64",
+      "size": 1654844680,
+      "url": "https://git.pixelbuilds.org/releases/sunfish/releases/download/20250927-1854/PixelBuilds_sunfish-infinity-20250927-1854-release.zip"
     }
   ]
 }
