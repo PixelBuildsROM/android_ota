@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1762756119,
-      "filename": "PixelBuilds_redfin-infinity-oss-20251110-0828-release.zip",
-      "id": "d9bdeba746c914366afbe953e2c47e1fc3dab64117fc342a6d197c70607f0851",
-      "size": 1308148742,
-      "url": "https://github.com/PixelBuilds-Releases/redfin/releases/download/20251110-0828/PixelBuilds_redfin-infinity-oss-20251110-0828-release.zip"
+      "datetime": 1766247416,
+      "filename": "PixelBuilds_redfin-infinity-oss-20251220-1816-release.zip",
+      "id": "cdab4c39cfc8b08496f2d938f0af2df9d52e78045abc51a02e82b3cafe770938",
+      "size": 1309243590,
+      "url": "https://github.com/PixelBuilds-Releases/redfin/releases/download/20251220-1816/PixelBuilds_redfin-infinity-oss-20251220-1816-release.zip"
     }
   ]
 }
