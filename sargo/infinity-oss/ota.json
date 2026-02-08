@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1768140169,
-      "filename": "PixelBuilds_sargo-infinity-oss-20260111-1402-release.zip",
-      "id": "b534e9dc65d0b85b8b0b170c57a8bfd48bf949038576f5f5c208a464e2ad792b",
-      "size": 1145129654,
-      "url": "https://github.com/PixelBuilds-Releases/sargo/releases/download/20260111-1402/PixelBuilds_sargo-infinity-oss-20260111-1402-release.zip"
+      "datetime": 1770554300,
+      "filename": "PixelBuilds_sargo-infinity-oss-20260208-1238-release.zip",
+      "id": "ed2c08710eb98c758cdf20c55cc243c57122bafa8f1aa8a9ca12a0aa2ae80ed4",
+      "size": 1170925608,
+      "url": "https://github.com/PixelBuilds-Releases/sargo/releases/download/20260208-1238/PixelBuilds_sargo-infinity-oss-20260208-1238-release.zip"
     }
   ]
 }
